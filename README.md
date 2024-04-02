@@ -13,10 +13,7 @@ Welcome to the Weather App ReactJS repository! This repository contains a weathe
 
 Check out this short demo video showcasing the Weather App:
 
-
-https://github.com/gianniszisakis/Weather-App-ReactJS/assets/47507065/3689187a-af0a-4421-b687-32c10a86b5be
-
-
+https://github.com/gianniszisakis/Weather-ReactJS/assets/47507065/d477e7be-f0c1-4b9d-be5a-9d8ebaedec6d
 
 ## Getting Started
 
